@@ -10,10 +10,15 @@
 - 요즘 뜨는 언어, 빠르게 성장하는 언어
 [zdnet 개발자가 배우고 싶은 언어 순위(2020)](https://zdnet.co.kr/view/?no=20200205112108)
     ![ex_screenshot](https://image.zdnet.co.kr/2020/02/05/firstblood_41gKQs3DW.jpg)
+    
 [TIOBE Index for February 2022](https://www.tiobe.com/tiobe-index/)
+
 [2021 깃허브 언어 순위](https://json8.tistory.com/134)
+
 [재미로 보는 언어순위](https://m.post.naver.com/viewer/postView.nhn?volumeNo=28440124&memberNo=21060)
+
 [오버플로우 2021 순위](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language)
+
 
 
 ## Go언어의 언어적 특징
