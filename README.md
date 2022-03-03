@@ -15,8 +15,6 @@
 
 [2021 깃허브 언어 순위](https://json8.tistory.com/134)
 
-[재미로 보는 언어순위](https://m.post.naver.com/viewer/postView.nhn?volumeNo=28440124&memberNo=21060)
-
 [오버플로우 2021 순위](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language)
 
 
